@@ -5,7 +5,7 @@ import SEO from "../components/seo"
 export default () => (
   <Layout>
     <SEO title="Welcome" />
-    <h2>Welcome!</h2>
+    <h2>Staging!</h2>
     <p>
       Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Fusce
       dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut
